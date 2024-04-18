@@ -14,10 +14,7 @@ class TodoSimple(Resource):
         todos[todo_id] = request.form['data']
         return {todo_id: todos[todo_id]}
 
-api.add_resource(TodoSimple, '/aa/<string:todo_id>', endpoint = 'user')
-
-
-#api.add_resource(UserAPI, '/users/<string:id>', endpoint = 'user')
+api.add_resource(TodoSimple, '/<string:todo_id>', endpoint = 'user')
 
 
 if __name__ == "__main__":
