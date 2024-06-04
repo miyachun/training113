@@ -15,7 +15,6 @@ sudo nano /etc/mosquitto/mosquitto.conf
 listener 1883  
 allow_anonymous true  
 sudo reboot  
-
 ifconfig  
 pip install 'paho-mqtt<2.0.0'  
 pip install rpi.gpio
