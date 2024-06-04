@@ -18,5 +18,6 @@ while True:
 	# We would get a large decimal number so we will round it to 2 places
 	distance = round(sensor.distance, 2)
 
+
 	# Print the information to the screen
 	print("Distance: {} cm".format(sensor.distance))
