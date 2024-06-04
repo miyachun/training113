@@ -6,7 +6,7 @@ VNC Viewer->https://www.realvnc.com/en/connect/download/viewer/
 pi4 gpio->https://images.theengineeringprojects.com/image/webp/2021/03/raspberry-pi-4.png.webp?ssl=1  
 
 
--raspberry 指令-  
+-MQTT Pi4-  
 sudo apt update  
 sudo apt upgrade  
 sudo raspi-config  
