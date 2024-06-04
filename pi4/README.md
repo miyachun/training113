@@ -1,5 +1,4 @@
 -相關-  
-virtualenv->virtualenv -p python3.10 XXX  
 Raspberry Pi Imager->https://www.raspberrypi.com/software/  
 PuTTY->https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html  
 VNC Viewer->https://www.realvnc.com/en/connect/download/viewer/  
