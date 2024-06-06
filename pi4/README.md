@@ -25,7 +25,6 @@ https://learn.adafruit.com/dht-humidity-sensing-on-raspberry-pi-with-gdocs-loggi
 Installing the CircuitPython-DHT Library  
 https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuitpython-on-raspberry-pi  
 
-
-
+![image](https://github.com/miyachun/training113/blob/main/pi4/demo.jpg)  
 
 
