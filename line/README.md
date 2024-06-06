@@ -18,3 +18,5 @@ flask->https://flask.palletsprojects.com/en/3.0.x/
 sqlitebrowser->https://sqlitebrowser.org/dl/  
 line_develop->https://developers.line.biz/zh-hant/  
 ngrok->https://ngrok.com/  
+Flex Message->https://developers.line.biz/en/docs/messaging-api/using-flex-messages/#operating-environment   
+https://developers.line.biz/flex-simulator/
