@@ -18,3 +18,7 @@ activate
 virtualenv->virtualenv -p python3.10 XXX  
 yolo10->https://github.com/THU-MIG/yolov10/tree/main  
 Predict:yolo predict model=yolov8n.pt source='https://ultralytics.com/images/zidane.jpg'  
+Train model:yolov8n.pt data=coco8.yaml epochs=3 imgsz=640  
+Train model:yolov8n.pt data=XXX.yaml epochs=20 imgsz=640  
+
+
