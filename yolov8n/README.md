@@ -35,6 +35,7 @@ segment:yolo segment predict model=yolov8n-seg.pt source='https://ultralytics.co
 segment:yolo segment predict model=path/to/best.pt source='https://ultralytics.com/images/bus.jpg'  # predict with custom model  
 
 
+
 -影片參考來源-  
 https://www.youtube.com/watch?v=32Y2aK01rLc
 
