@@ -36,5 +36,6 @@ Installing the CircuitPython-DHT Library
 https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuitpython-on-raspberry-pi  
 
 ![image](https://github.com/miyachun/training113/blob/main/pi4/demo.jpg)  
+![image](https://github.com/miyachun/training113/blob/main/pi4/ht11.jpg)  
 
 
