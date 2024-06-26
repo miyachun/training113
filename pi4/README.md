@@ -1,6 +1,10 @@
 -相關-  
 Raspberry Pi Imager->https://www.raspberrypi.com/software/  
+
 PuTTY->https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html  
+host name for ip address->raspberrypi.local  
+port->22  
+
 VNC Viewer->https://www.realvnc.com/en/connect/download/viewer/  
 pi4 gpio->https://images.theengineeringprojects.com/image/webp/2021/03/raspberry-pi-4.png.webp?ssl=1  
 
