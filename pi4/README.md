@@ -1,6 +1,7 @@
 -相關-  
 Raspberry Pi Imager->https://www.raspberrypi.com/software/  
 設定/輸入相關訊息  
+勾選開啟ssh服務  
 
 PuTTY->https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html  
 host name for ip address->raspberrypi.local  
